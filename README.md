@@ -15,6 +15,8 @@ The final dashboard provides insights into:
 * **Revenue by Category:** A breakdown of which products (Monitors, Tablets, etc.) drive the most value.
 * **Regional Analysis:** Visualizing performance across the West Midlands, London, and other key regions.
 * **Acquisition Channels:** Evaluating the effectiveness of Referral, Organic, and Paid marketing.
+* <img width="1440" height="900" alt="Screenshot 2026-02-25 at 5 21 33 PM" src="https://github.com/user-attachments/assets/5facdf34-af53-48d9-8579-7327eecc737a" />
+
 
 ## 🚀 How to Run
 1. Clone the repo: `git clone https://github.com/KanzadaNur/Executive_Dashboard.git`

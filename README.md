@@ -17,7 +17,9 @@ The final dashboard provides insights into:
 * **Acquisition Channels:** Evaluating the effectiveness of Referral, Organic, and Paid marketing.
 * <img width="1440" height="900" alt="Screenshot 2026-02-25 at 5 21 33 PM" src="https://github.com/user-attachments/assets/5facdf34-af53-48d9-8579-7327eecc737a" />
 
-
+## 🔗 Live Interactive Dashboard
+You can view and interact with the full dashboard here:
+**[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/DashboardforTechHubRetail_17701599776550/ExecutiveDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 ## 🚀 How to Run
 1. Clone the repo: `git clone https://github.com/KanzadaNur/Executive_Dashboard.git`
 2. Install dependencies: `pip install pandas matplotlib seaborn`
